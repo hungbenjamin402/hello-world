@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+My name is Benjamin, and I'm a senior majoring in Computer Science at California State University, Fullerton. Over the past four years, I've learned a variety of programming languages, including Java, C++, Python, HTML/CSS, and Swift. Additionally, I've gained experience in iOS app development. Currently, I'm particularly interested in cross-platform app development, especially using frameworks such as React Native and Flutter.
